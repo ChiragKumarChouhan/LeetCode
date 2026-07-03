@@ -6,6 +6,7 @@ this is  a repo for DSA question i solved
 ## Array
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -13,6 +14,7 @@ this is  a repo for DSA question i solved
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -27,6 +29,7 @@ this is  a repo for DSA question i solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
