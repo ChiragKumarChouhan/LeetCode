@@ -12,6 +12,7 @@ this is  a repo for DSA question i solved
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1288-remove-covered-intervals](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ this is  a repo for DSA question i solved
 | [0560-subarray-sum-equals-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
