@@ -12,6 +12,7 @@ this is  a repo for DSA question i solved
 | [0560-subarray-sum-equals-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -47,4 +48,5 @@ this is  a repo for DSA question i solved
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
