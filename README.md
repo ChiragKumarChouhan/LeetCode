@@ -41,6 +41,7 @@ this is  a repo for DSA question i solved
 | [0560-subarray-sum-equals-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +54,12 @@ this is  a repo for DSA question i solved
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
