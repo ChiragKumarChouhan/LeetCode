@@ -7,6 +7,7 @@ this is  a repo for DSA question i solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0525-contiguous-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0525-contiguous-array) |
@@ -47,6 +48,7 @@ this is  a repo for DSA question i solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0704-binary-search) |
