@@ -15,6 +15,7 @@ this is  a repo for DSA question i solved
 | [0704-binary-search](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1288-remove-covered-intervals](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -54,6 +55,7 @@ this is  a repo for DSA question i solved
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ChiragKumarChouhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
